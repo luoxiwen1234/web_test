@@ -1,0 +1,6 @@
+{
+  "name": "moonlight-summer-galgame-gallery",
+  "private": true,
+  "version": "1.0.0",
+  "description": "零依赖静态网页，直接打开 index.html 即可使用。"
+}
